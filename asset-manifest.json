@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/TIKAL-Star-wars/static/css/main.b702eee3.chunk.css",
-    "main.js": "/TIKAL-Star-wars/static/js/main.0c0d1840.chunk.js",
-    "main.js.map": "/TIKAL-Star-wars/static/js/main.0c0d1840.chunk.js.map",
-    "runtime-main.js": "/TIKAL-Star-wars/static/js/runtime-main.365f1864.js",
-    "runtime-main.js.map": "/TIKAL-Star-wars/static/js/runtime-main.365f1864.js.map",
-    "static/js/2.235f877a.chunk.js": "/TIKAL-Star-wars/static/js/2.235f877a.chunk.js",
-    "static/js/2.235f877a.chunk.js.map": "/TIKAL-Star-wars/static/js/2.235f877a.chunk.js.map",
-    "static/js/3.850d88d6.chunk.js": "/TIKAL-Star-wars/static/js/3.850d88d6.chunk.js",
-    "static/js/3.850d88d6.chunk.js.map": "/TIKAL-Star-wars/static/js/3.850d88d6.chunk.js.map",
+    "main.js": "/TIKAL-Star-wars/static/js/main.0052f0db.chunk.js",
+    "main.js.map": "/TIKAL-Star-wars/static/js/main.0052f0db.chunk.js.map",
+    "runtime-main.js": "/TIKAL-Star-wars/static/js/runtime-main.8e9224d2.js",
+    "runtime-main.js.map": "/TIKAL-Star-wars/static/js/runtime-main.8e9224d2.js.map",
+    "static/js/2.bdcd6b05.chunk.js": "/TIKAL-Star-wars/static/js/2.bdcd6b05.chunk.js",
+    "static/js/2.bdcd6b05.chunk.js.map": "/TIKAL-Star-wars/static/js/2.bdcd6b05.chunk.js.map",
+    "static/js/3.dc54a457.chunk.js": "/TIKAL-Star-wars/static/js/3.dc54a457.chunk.js",
+    "static/js/3.dc54a457.chunk.js.map": "/TIKAL-Star-wars/static/js/3.dc54a457.chunk.js.map",
     "index.html": "/TIKAL-Star-wars/index.html",
     "static/css/main.b702eee3.chunk.css.map": "/TIKAL-Star-wars/static/css/main.b702eee3.chunk.css.map",
-    "static/js/2.235f877a.chunk.js.LICENSE.txt": "/TIKAL-Star-wars/static/js/2.235f877a.chunk.js.LICENSE.txt",
+    "static/js/2.bdcd6b05.chunk.js.LICENSE.txt": "/TIKAL-Star-wars/static/js/2.bdcd6b05.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/TIKAL-Star-wars/static/media/Segoe-UI.45472284.ttf",
     "static/media/Home.scss": "/TIKAL-Star-wars/static/media/bgc.54488fba.png",
     "static/media/Chart.scss": "/TIKAL-Star-wars/static/media/bgc2.38de0ca0.jpg",
     "static/media/load.94825431.svg": "/TIKAL-Star-wars/static/media/load.94825431.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.365f1864.js",
-    "static/js/2.235f877a.chunk.js",
+    "static/js/runtime-main.8e9224d2.js",
+    "static/js/2.bdcd6b05.chunk.js",
     "static/css/main.b702eee3.chunk.css",
-    "static/js/main.0c0d1840.chunk.js"
+    "static/js/main.0052f0db.chunk.js"
   ]
 }
