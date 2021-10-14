@@ -1,11 +1,13 @@
 .App {
   height: 100vh;
+  background-image: url('../../assets/img/bgc.png');
 }
 
-.hero-container {
+.container {
   height: 90vh;
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  background-image: url('../../assets/img/bgc.png');
+  display: grid;
+  grid-template-columns: 2fr 5fr;
+  grid-gap: 15px;
+  gap: 15px;
+  grid-auto-flow: column;
 }

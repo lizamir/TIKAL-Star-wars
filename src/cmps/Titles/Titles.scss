@@ -1,0 +1,18 @@
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  color: #ffd043de;
+  font-family: Roboto;
+  .title_item {
+    h2 {
+      cursor: pointer;
+      display: inline;
+    }
+  }
+  .favorite {
+    font-size: 20px;
+    margin-inline-start: 10px;
+  }
+}

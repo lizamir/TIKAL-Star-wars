@@ -1,0 +1,23 @@
+.details-container {
+  border-left: 5px dashed #ffd04370;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  color: #ffd043de;
+  .title-details {
+    font-size: 60px;
+  }
+
+  .details {
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 18px;
+    margin-inline-start: 25px;
+    margin-inline-end: 25px;
+  }
+  .fav {
+    font-size: 80px;
+  }
+}

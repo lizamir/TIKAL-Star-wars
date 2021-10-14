@@ -21,9 +21,9 @@ export const Header = (props) => {
         <NavLink exact to="/" activeClassName="active-nav">
           <FaHome className="icon start" />
         </NavLink>
-        <NavLink exact to="/chart" activeClassName="active-nav">
+        {/* <NavLink exact to="/chart" activeClassName="active-nav">
           <BsBarChartFill className="icon" />
-        </NavLink>
+        </NavLink> */}
       </ul>
     </header>
   );

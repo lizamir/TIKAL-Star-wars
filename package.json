@@ -1,5 +1,5 @@
 {
-  "homepage": "https://lizamir.gitub.io/TIKAL-Star-wars",
+  "homepage": "https://lizamir.gitub.io/zoomin-star-wars",
   "name": "star-wars",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +9,9 @@
     "@testing-library/user-event": "^12.8.3",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
+    "react-cookie": "^4.1.1",
     "react-dom": "^17.0.2",
-    "react-icons": "^4.2.0",
+    "react-icons": "^4.3.1",
     "react-media-recorder": "^1.5.0",
     "react-redux": "^7.2.5",
     "react-router-dom": "^5.2.0",
